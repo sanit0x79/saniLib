@@ -1,0 +1,1034 @@
+{
+    "t": "GUILD_CREATE",
+    "s": 2,
+    "op": 0,
+    "d": {
+        "inventory_settings": null,
+        "vanity_url_code": null,
+        "owner_id": "384784538930249728",
+        "joined_at": "2024-01-09T22:10:10.276388+00:00",
+        "system_channel_id": null,
+        "public_updates_channel_id": null,
+        "region": "deprecated",
+        "lazy": true,
+        "premium_progress_bar_enabled": false,
+        "explicit_content_filter": 0,
+        "splash": null,
+        "premium_subscription_count": 0,
+        "id": "835933158339903488",
+        "discovery_splash": null,
+        "rules_channel_id": null,
+        "voice_states": [],
+        "name": "Sanity's Brain",
+        "nsfw": false,
+        "verification_level": 0,
+        "incidents_data": null,
+        "premium_tier": 0,
+        "members": [
+            {
+                "user": {
+                    "username": "Mae",
+                    "public_flags": 0,
+                    "id": "1194397468834660443",
+                    "global_name": null,
+                    "display_name": null,
+                    "discriminator": "7517",
+                    "bot": true,
+                    "avatar_decoration_data": null,
+                    "avatar": "3449b11905f51da3b554e6acb060221e"
+                },
+                "roles": [
+                    "1194402765615677462"
+                ],
+                "premium_since": null,
+                "pending": false,
+                "nick": null,
+                "mute": false,
+                "joined_at": "2024-01-09T22:10:10.276388+00:00",
+                "flags": 0,
+                "deaf": false,
+                "communication_disabled_until": null,
+                "avatar": null
+            }
+        ],
+        "threads": [],
+        "channels": [
+            {
+                "version": 0,
+                "type": 4,
+                "position": 0,
+                "permission_overwrites": [],
+                "name": "Text Channels",
+                "id": "835933158339903491",
+                "flags": 0
+            },
+            {
+                "version": 1704895794293,
+                "type": 0,
+                "topic": null,
+                "theme_color": null,
+                "rate_limit_per_user": 0,
+                "position": 6,
+                "permission_overwrites": [
+                    {
+                        "type": 0,
+                        "id": "835933158339903488",
+                        "deny": "1024",
+                        "allow": "0"
+                    }
+                ],
+                "parent_id": "835933158339903491",
+                "nsfw": false,
+                "name": "pictures-phone-to-pc",
+                "last_pin_timestamp": "2023-05-31T10:14:31+00:00",
+                "last_message_id": "1191718756431446016",
+                "id": "923268042794881034",
+                "icon_emoji": {
+                    "name": "\ud83d\udcf7",
+                    "id": null
+                },
+                "flags": 0
+            },
+            {
+                "version": 1704895794327,
+                "type": 0,
+                "topic": null,
+                "theme_color": null,
+                "rate_limit_per_user": 0,
+                "position": 8,
+                "permission_overwrites": [
+                    {
+                        "type": 0,
+                        "id": "835933158339903488",
+                        "deny": "1024",
+                        "allow": "0"
+                    }
+                ],
+                "parent_id": "835933158339903491",
+                "nsfw": false,
+                "name": "accounts-handlevel",
+                "last_pin_timestamp": "2023-03-26T08:24:56+00:00",
+                "last_message_id": "1128371268543062080",
+                "id": "967851822876348436",
+                "icon_emoji": {
+                    "name": "\ud83d\udd90\ufe0f",
+                    "id": null
+                },
+                "flags": 0
+            },
+            {
+                "version": 1704895794354,
+                "type": 0,
+                "topic": null,
+                "theme_color": null,
+                "rate_limit_per_user": 0,
+                "position": 9,
+                "permission_overwrites": [
+                    {
+                        "type": 0,
+                        "id": "835933158339903488",
+                        "deny": "1024",
+                        "allow": "0"
+                    }
+                ],
+                "parent_id": "835933158339903491",
+                "nsfw": false,
+                "name": "accounts-botted",
+                "last_message_id": "1093454086189355039",
+                "id": "967851842413408257",
+                "icon_emoji": {
+                    "name": "\ud83e\udd16",
+                    "id": null
+                },
+                "flags": 0
+            },
+            {
+                "version": 1704895794307,
+                "type": 0,
+                "topic": null,
+                "theme_color": null,
+                "rate_limit_per_user": 0,
+                "position": 7,
+                "permission_overwrites": [
+                    {
+                        "type": 0,
+                        "id": "835933158339903488",
+                        "deny": "1024",
+                        "allow": "0"
+                    }
+                ],
+                "parent_id": "835933158339903491",
+                "nsfw": false,
+                "name": "valorant-accounts",
+                "last_message_id": "1012404153286414366",
+                "id": "1002654964847476867",
+                "icon_emoji": {
+                    "name": "\ud83c\udfae",
+                    "id": null
+                },
+                "flags": 0
+            },
+            {
+                "version": 1704895794373,
+                "type": 0,
+                "topic": null,
+                "theme_color": null,
+                "rate_limit_per_user": 0,
+                "position": 10,
+                "permission_overwrites": [
+                    {
+                        "type": 0,
+                        "id": "835933158339903488",
+                        "deny": "1024",
+                        "allow": "0"
+                    }
+                ],
+                "parent_id": "835933158339903491",
+                "nsfw": false,
+                "name": "images-to-save",
+                "last_message_id": "1138466255871942708",
+                "id": "1019630180223950980",
+                "icon_emoji": {
+                    "name": "\ud83d\udcbe",
+                    "id": null
+                },
+                "flags": 0
+            },
+            {
+                "version": 1704895794408,
+                "type": 0,
+                "topic": null,
+                "theme_color": null,
+                "rate_limit_per_user": 0,
+                "position": 11,
+                "permission_overwrites": [
+                    {
+                        "type": 0,
+                        "id": "835933158339903488",
+                        "deny": "1024",
+                        "allow": "0"
+                    }
+                ],
+                "parent_id": "835933158339903491",
+                "nsfw": false,
+                "name": "gif",
+                "last_message_id": "1164146078933852231",
+                "id": "1041417765468262490",
+                "icon_emoji": {
+                    "name": "\ud83c\udf9e\ufe0f",
+                    "id": null
+                },
+                "flags": 0
+            },
+            {
+                "version": 1704895794275,
+                "type": 0,
+                "topic": null,
+                "theme_color": null,
+                "rate_limit_per_user": 0,
+                "position": 5,
+                "permission_overwrites": [],
+                "parent_id": "835933158339903491",
+                "nsfw": false,
+                "name": "handy-links",
+                "last_message_id": "1084902013369856024",
+                "id": "1084902008361852968",
+                "icon_emoji": {
+                    "name": "\ud83d\udd17",
+                    "id": null
+                },
+                "flags": 0
+            },
+            {
+                "version": 1704895794221,
+                "type": 0,
+                "topic": null,
+                "theme_color": null,
+                "rate_limit_per_user": 0,
+                "position": 3,
+                "permission_overwrites": [
+                    {
+                        "type": 0,
+                        "id": "835933158339903488",
+                        "deny": "1024",
+                        "allow": "0"
+                    }
+                ],
+                "parent_id": "835933158339903491",
+                "nsfw": false,
+                "name": "apl-stuff",
+                "last_message_id": "1089454507232084008",
+                "id": "1089454496851177513",
+                "icon_emoji": {
+                    "name": "\ud83c\udf4f",
+                    "id": null
+                },
+                "flags": 0
+            },
+            {
+                "version": 1704895794258,
+                "type": 0,
+                "topic": null,
+                "theme_color": null,
+                "rate_limit_per_user": 0,
+                "position": 4,
+                "permission_overwrites": [],
+                "parent_id": "835933158339903491",
+                "nsfw": false,
+                "name": "computer-science",
+                "last_message_id": "1181603406373199985",
+                "id": "1089457458457608224",
+                "icon_emoji": {
+                    "name": "\ud83d\udcbb",
+                    "id": null
+                },
+                "flags": 0
+            },
+            {
+                "version": 1704895794436,
+                "type": 0,
+                "topic": null,
+                "theme_color": null,
+                "rate_limit_per_user": 0,
+                "position": 12,
+                "permission_overwrites": [
+                    {
+                        "type": 0,
+                        "id": "835933158339903488",
+                        "deny": "1024",
+                        "allow": "0"
+                    }
+                ],
+                "parent_id": "835933158339903491",
+                "nsfw": false,
+                "name": "hardware-or-software-i-need-to-have",
+                "last_message_id": null,
+                "id": "1092756189126856774",
+                "icon_emoji": {
+                    "name": "\ud83d\udd0c",
+                    "id": null
+                },
+                "flags": 0
+            },
+            {
+                "version": 1704895794201,
+                "type": 0,
+                "topic": null,
+                "theme_color": null,
+                "rate_limit_per_user": 0,
+                "position": 2,
+                "permission_overwrites": [],
+                "parent_id": "835933158339903491",
+                "nsfw": false,
+                "name": "gay-people-chat",
+                "last_message_id": "1157239435956604989",
+                "id": "1138431803556888677",
+                "icon_emoji": {
+                    "name": "\ud83c\udf08",
+                    "id": null
+                },
+                "flags": 0
+            },
+            {
+                "version": 1704895794180,
+                "type": 0,
+                "topic": null,
+                "theme_color": null,
+                "rate_limit_per_user": 0,
+                "position": 1,
+                "permission_overwrites": [
+                    {
+                        "type": 0,
+                        "id": "835933158339903488",
+                        "deny": "1024",
+                        "allow": "0"
+                    }
+                ],
+                "parent_id": "835933158339903491",
+                "nsfw": false,
+                "name": "books",
+                "last_message_id": "1185138552972001281",
+                "id": "1185137340734242826",
+                "icon_emoji": {
+                    "name": "\ud83d\udcda",
+                    "id": null
+                },
+                "flags": 0
+            },
+            {
+                "version": 1704895794163,
+                "type": 0,
+                "topic": null,
+                "theme_color": null,
+                "rate_limit_per_user": 0,
+                "position": 0,
+                "permission_overwrites": [
+                    {
+                        "type": 1,
+                        "id": "510789298321096704",
+                        "deny": "0",
+                        "allow": "1024"
+                    },
+                    {
+                        "type": 0,
+                        "id": "918942071895781488",
+                        "deny": "0",
+                        "allow": "1024"
+                    },
+                    {
+                        "type": 0,
+                        "id": "835933158339903488",
+                        "deny": "1024",
+                        "allow": "0"
+                    },
+                    {
+                        "type": 0,
+                        "id": "968519648725327925",
+                        "deny": "0",
+                        "allow": "1024"
+                    },
+                    {
+                        "type": 1,
+                        "id": "1194397468834660443",
+                        "deny": "0",
+                        "allow": "1024"
+                    },
+                    {
+                        "type": 1,
+                        "id": "429305856241172480",
+                        "deny": "0",
+                        "allow": "1024"
+                    }
+                ],
+                "parent_id": "835933158339903491",
+                "nsfw": false,
+                "name": "testing",
+                "last_message_id": null,
+                "id": "1194644281969868840",
+                "icon_emoji": {
+                    "name": "\ud83e\uddea",
+                    "id": null
+                },
+                "flags": 0
+            }
+        ],
+        "default_message_notifications": 0,
+        "embedded_activities": [],
+        "nsfw_level": 0,
+        "stickers": [
+            {
+                "version": 1664223870319,
+                "type": 2,
+                "tags": "smiley",
+                "name": "reichu",
+                "id": "1024053877156368414",
+                "guild_id": "835933158339903488",
+                "format_type": 1,
+                "description": "",
+                "available": true,
+                "asset": ""
+            },
+            {
+                "version": 1691482809211,
+                "type": 2,
+                "tags": "smiling_face_with_3_hearts",
+                "name": "Robin Headpat",
+                "id": "1046867755216949299",
+                "guild_id": "835933158339903488",
+                "format_type": 1,
+                "description": "",
+                "available": true,
+                "asset": ""
+            }
+        ],
+        "description": null,
+        "guild_scheduled_events": [],
+        "system_channel_flags": 0,
+        "emojis": [
+            {
+                "version": 0,
+                "roles": [],
+                "require_colons": true,
+                "name": "Nodders",
+                "managed": false,
+                "id": "919569196071936041",
+                "available": true,
+                "animated": true
+            },
+            {
+                "version": 0,
+                "roles": [],
+                "require_colons": true,
+                "name": "pleadingblob",
+                "managed": false,
+                "id": "922958553927524362",
+                "available": true,
+                "animated": false
+            },
+            {
+                "version": 0,
+                "roles": [],
+                "require_colons": true,
+                "name": "walmartkarasmai",
+                "managed": false,
+                "id": "942573913152577577",
+                "available": true,
+                "animated": false
+            },
+            {
+                "version": 0,
+                "roles": [],
+                "require_colons": true,
+                "name": "abanana",
+                "managed": false,
+                "id": "964152624754593852",
+                "available": true,
+                "animated": false
+            },
+            {
+                "version": 0,
+                "roles": [],
+                "require_colons": true,
+                "name": "chall",
+                "managed": false,
+                "id": "970709694685540433",
+                "available": true,
+                "animated": false
+            },
+            {
+                "version": 0,
+                "roles": [],
+                "require_colons": true,
+                "name": "sorakasip",
+                "managed": false,
+                "id": "970738447067263066",
+                "available": true,
+                "animated": true
+            },
+            {
+                "version": 0,
+                "roles": [],
+                "require_colons": true,
+                "name": "dinkdonk",
+                "managed": false,
+                "id": "971155763005366333",
+                "available": true,
+                "animated": true
+            },
+            {
+                "version": 1691482777209,
+                "roles": [],
+                "require_colons": true,
+                "name": "blackjiggly",
+                "managed": false,
+                "id": "973143841605570580",
+                "available": true,
+                "animated": false
+            },
+            {
+                "version": 0,
+                "roles": [],
+                "require_colons": true,
+                "name": "peepostare",
+                "managed": false,
+                "id": "986296374985383949",
+                "available": true,
+                "animated": false
+            },
+            {
+                "version": 1691482785862,
+                "roles": [],
+                "require_colons": true,
+                "name": "peepoyes",
+                "managed": false,
+                "id": "988159040649588736",
+                "available": true,
+                "animated": false
+            },
+            {
+                "version": 0,
+                "roles": [],
+                "require_colons": true,
+                "name": "brocock",
+                "managed": false,
+                "id": "992906181880320010",
+                "available": true,
+                "animated": true
+            },
+            {
+                "version": 0,
+                "roles": [],
+                "require_colons": true,
+                "name": "spit",
+                "managed": false,
+                "id": "994231536838770749",
+                "available": true,
+                "animated": true
+            },
+            {
+                "version": 0,
+                "roles": [],
+                "require_colons": true,
+                "name": "pleadinguwu",
+                "managed": false,
+                "id": "996166910339186740",
+                "available": true,
+                "animated": false
+            },
+            {
+                "version": 1662560287011,
+                "roles": [],
+                "require_colons": true,
+                "name": "awwinlove",
+                "managed": false,
+                "id": "1017076302685159506",
+                "available": true,
+                "animated": false
+            },
+            {
+                "version": 1668263699290,
+                "roles": [],
+                "require_colons": true,
+                "name": "happyheart",
+                "managed": false,
+                "id": "1040998147796779140",
+                "available": true,
+                "animated": false
+            },
+            {
+                "version": 1691482793779,
+                "roles": [],
+                "require_colons": true,
+                "name": "robinheadpat",
+                "managed": false,
+                "id": "1046867609670385724",
+                "available": true,
+                "animated": false
+            },
+            {
+                "version": 1677608306851,
+                "roles": [],
+                "require_colons": true,
+                "name": "carrotwiggle",
+                "managed": false,
+                "id": "1080192237536809090",
+                "available": true,
+                "animated": true
+            },
+            {
+                "version": 1677608315239,
+                "roles": [],
+                "require_colons": true,
+                "name": "wiggle",
+                "managed": false,
+                "id": "1080192290087247923",
+                "available": true,
+                "animated": true
+            },
+            {
+                "version": 1677608426667,
+                "roles": [],
+                "require_colons": true,
+                "name": "flamingowiggle",
+                "managed": false,
+                "id": "1080192743659286559",
+                "available": true,
+                "animated": true
+            },
+            {
+                "version": 1677782313688,
+                "roles": [],
+                "require_colons": true,
+                "name": "icant",
+                "managed": false,
+                "id": "1080922110068805652",
+                "available": true,
+                "animated": false
+            },
+            {
+                "version": 1678095035308,
+                "roles": [],
+                "require_colons": true,
+                "name": "kazzak",
+                "managed": false,
+                "id": "1082233736764076093",
+                "available": true,
+                "animated": true
+            },
+            {
+                "version": 1678439976754,
+                "roles": [],
+                "require_colons": true,
+                "name": "pantsgrab",
+                "managed": false,
+                "id": "1083680549064933446",
+                "available": true,
+                "animated": false
+            },
+            {
+                "version": 1679308517445,
+                "roles": [],
+                "require_colons": true,
+                "name": "agreege",
+                "managed": false,
+                "id": "1087323472805503046",
+                "available": true,
+                "animated": false
+            },
+            {
+                "version": 1679680648582,
+                "roles": [],
+                "require_colons": true,
+                "name": "headpat",
+                "managed": false,
+                "id": "1088884303900975104",
+                "available": true,
+                "animated": false
+            },
+            {
+                "version": 1679698438738,
+                "roles": [],
+                "require_colons": true,
+                "name": "gurawave",
+                "managed": false,
+                "id": "1088958921219248128",
+                "available": true,
+                "animated": true
+            },
+            {
+                "version": 1681380000262,
+                "roles": [],
+                "require_colons": true,
+                "name": "aww",
+                "managed": false,
+                "id": "1096011876862808134",
+                "available": true,
+                "animated": false
+            },
+            {
+                "version": 1681736605344,
+                "roles": [],
+                "require_colons": true,
+                "name": "xdd",
+                "managed": false,
+                "id": "1097507611483586660",
+                "available": true,
+                "animated": false
+            },
+            {
+                "version": 1681848296267,
+                "roles": [],
+                "require_colons": true,
+                "name": "this",
+                "managed": false,
+                "id": "1097976059779096692",
+                "available": true,
+                "animated": true
+            },
+            {
+                "version": 1682179458914,
+                "roles": [],
+                "require_colons": true,
+                "name": "meowdy",
+                "managed": false,
+                "id": "1099365058431172678",
+                "available": true,
+                "animated": false
+            },
+            {
+                "version": 1683406436383,
+                "roles": [],
+                "require_colons": true,
+                "name": "sniper",
+                "managed": false,
+                "id": "1104511390452043797",
+                "available": true,
+                "animated": false
+            },
+            {
+                "version": 1688049858885,
+                "roles": [],
+                "require_colons": true,
+                "name": "dussy",
+                "managed": false,
+                "id": "1123987284069470320",
+                "available": true,
+                "animated": true
+            },
+            {
+                "version": 1691482436917,
+                "roles": [],
+                "require_colons": true,
+                "name": "thereisthedoor",
+                "managed": false,
+                "id": "1138384591485415426",
+                "available": true,
+                "animated": true
+            },
+            {
+                "version": 1691788029742,
+                "roles": [],
+                "require_colons": true,
+                "name": "yepge",
+                "managed": false,
+                "id": "1139666341113118851",
+                "available": true,
+                "animated": false
+            },
+            {
+                "version": 1693230485020,
+                "roles": [],
+                "require_colons": true,
+                "name": "sobbing",
+                "managed": false,
+                "id": "1145716423210045521",
+                "available": true,
+                "animated": true
+            }
+        ],
+        "large": false,
+        "application_id": null,
+        "max_video_channel_users": 25,
+        "soundboard_sounds": [],
+        "stage_instances": [],
+        "max_stage_video_channel_users": 50,
+        "hub_type": null,
+        "features": [
+            "CHANNEL_ICON_EMOJIS_GENERATED"
+        ],
+        "max_members": 500000,
+        "application_command_counts": {
+            "3": 5,
+            "2": 7,
+            "1": 249
+        },
+        "icon": "bf78387d3c95c6632d9e2ec7a6757c24",
+        "roles": [
+            {
+                "version": 1691493750267,
+                "unicode_emoji": null,
+                "tags": {},
+                "position": 0,
+                "permissions": "559623605571136",
+                "name": "@everyone",
+                "mentionable": false,
+                "managed": false,
+                "id": "835933158339903488",
+                "icon": null,
+                "hoist": false,
+                "flags": 0,
+                "color": 0
+            },
+            {
+                "version": 1691493750079,
+                "unicode_emoji": null,
+                "tags": {
+                    "bot_id": "429305856241172480"
+                },
+                "position": 9,
+                "permissions": "3533888",
+                "name": "esmBot",
+                "mentionable": false,
+                "managed": true,
+                "id": "918942071895781488",
+                "icon": null,
+                "hoist": false,
+                "flags": 0,
+                "color": 0
+            },
+            {
+                "version": 1691493750075,
+                "unicode_emoji": null,
+                "tags": {
+                    "bot_id": "534589798267224065"
+                },
+                "position": 8,
+                "permissions": "8798207470801",
+                "name": "ActivityRank",
+                "mentionable": false,
+                "managed": true,
+                "id": "923252024303300671",
+                "icon": null,
+                "hoist": false,
+                "flags": 0,
+                "color": 0
+            },
+            {
+                "version": 1691493750072,
+                "unicode_emoji": null,
+                "tags": {},
+                "position": 7,
+                "permissions": "1071698660929",
+                "name": "Elite",
+                "mentionable": false,
+                "managed": false,
+                "id": "923252513258479627",
+                "icon": null,
+                "hoist": false,
+                "flags": 0,
+                "color": 0
+            },
+            {
+                "version": 1691493750068,
+                "unicode_emoji": null,
+                "tags": {
+                    "bot_id": "506186003816513538"
+                },
+                "position": 6,
+                "permissions": "8797167152128",
+                "name": "Pepe Manager",
+                "mentionable": false,
+                "managed": true,
+                "id": "923255355981578252",
+                "icon": null,
+                "hoist": false,
+                "flags": 0,
+                "color": 0
+            },
+            {
+                "version": 1691493750065,
+                "unicode_emoji": null,
+                "tags": {},
+                "position": 5,
+                "permissions": "1071698660929",
+                "name": "Testing",
+                "mentionable": false,
+                "managed": false,
+                "id": "923258016785117204",
+                "icon": null,
+                "hoist": false,
+                "flags": 0,
+                "color": 0
+            },
+            {
+                "version": 1675695828813,
+                "unicode_emoji": null,
+                "tags": {
+                    "bot_id": "339254240012664832"
+                },
+                "position": 10,
+                "permissions": "517846068296",
+                "name": "AmariBot",
+                "mentionable": false,
+                "managed": true,
+                "id": "923265080592834621",
+                "icon": null,
+                "hoist": false,
+                "flags": 0,
+                "color": 0
+            },
+            {
+                "version": 1691493750061,
+                "unicode_emoji": null,
+                "tags": {
+                    "bot_id": "510789298321096704"
+                },
+                "position": 4,
+                "permissions": "268822598",
+                "name": "TeXit",
+                "mentionable": false,
+                "managed": true,
+                "id": "968519648725327925",
+                "icon": null,
+                "hoist": false,
+                "flags": 0,
+                "color": 0
+            },
+            {
+                "version": 1691493750057,
+                "unicode_emoji": null,
+                "tags": {
+                    "bot_id": "244234418007441408"
+                },
+                "position": 3,
+                "permissions": "8",
+                "name": "Orianna Bot",
+                "mentionable": false,
+                "managed": true,
+                "id": "1013469829526732866",
+                "icon": null,
+                "hoist": false,
+                "flags": 0,
+                "color": 0
+            },
+            {
+                "version": 1691493750054,
+                "unicode_emoji": null,
+                "tags": {
+                    "bot_id": "936929561302675456"
+                },
+                "position": 2,
+                "permissions": "2147601472",
+                "name": "Midjourney Bot",
+                "mentionable": false,
+                "managed": true,
+                "id": "1046151722113970178",
+                "icon": null,
+                "hoist": false,
+                "flags": 0,
+                "color": 0
+            },
+            {
+                "version": 1675695828824,
+                "unicode_emoji": null,
+                "tags": {},
+                "position": 11,
+                "permissions": "8",
+                "name": "King",
+                "mentionable": false,
+                "managed": false,
+                "id": "1072170634748104845",
+                "icon": null,
+                "hoist": true,
+                "flags": 0,
+                "color": 15844367
+            },
+            {
+                "version": 1682576726689,
+                "unicode_emoji": null,
+                "tags": {
+                    "bot_id": "276060004262477825"
+                },
+                "position": 1,
+                "permissions": "1644971945207",
+                "name": "Koya",
+                "mentionable": false,
+                "managed": true,
+                "id": "1101031335788814349",
+                "icon": null,
+                "hoist": false,
+                "flags": 0,
+                "color": 0
+            },
+            {
+                "version": 1704838210264,
+                "unicode_emoji": null,
+                "tags": {
+                    "bot_id": "1194397468834660443"
+                },
+                "position": 1,
+                "permissions": "8",
+                "name": "Mae",
+                "mentionable": false,
+                "managed": true,
+                "id": "1194402765615677462",
+                "icon": null,
+                "hoist": false,
+                "flags": 0,
+                "color": 0
+            }
+        ],
+        "member_count": 15,
+        "latest_onboarding_question_id": null,
+        "banner": null,
+        "afk_channel_id": null,
+        "mfa_level": 0,
+        "preferred_locale": "en-US",
+        "afk_timeout": 300,
+        "version": 1702629465948,
+        "home_header": null,
+        "safety_alerts_channel_id": null,
+        "presences": [],
+        "unavailable": false
+    }
+}
