@@ -3,20 +3,6 @@
     "s": 2,
     "op": 0,
     "d": {
-        "public_updates_channel_id": null,
-        "rules_channel_id": null,
-        "application_command_counts": {
-            "3": 5,
-            "2": 7,
-            "1": 249
-        },
-        "explicit_content_filter": 0,
-        "voice_states": [],
-        "icon": "bf78387d3c95c6632d9e2ec7a6757c24",
-        "nsfw": false,
-        "guild_scheduled_events": [],
-        "soundboard_sounds": [],
-        "member_count": 15,
         "emojis": [
             {
                 "version": 0,
@@ -359,235 +345,100 @@
                 "animated": true
             }
         ],
-        "id": "835933158339903488",
-        "system_channel_id": null,
-        "max_members": 500000,
-        "afk_channel_id": null,
-        "roles": [
+        "discovery_splash": null,
+        "stickers": [
             {
-                "version": 1691493750267,
-                "unicode_emoji": null,
-                "tags": {},
-                "position": 0,
-                "permissions": "559623605571136",
-                "name": "@everyone",
-                "mentionable": false,
-                "managed": false,
-                "id": "835933158339903488",
-                "icon": null,
-                "hoist": false,
-                "flags": 0,
-                "color": 0
+                "version": 1664223870319,
+                "type": 2,
+                "tags": "smiley",
+                "name": "reichu",
+                "id": "1024053877156368414",
+                "guild_id": "835933158339903488",
+                "format_type": 1,
+                "description": "",
+                "available": true,
+                "asset": ""
             },
             {
-                "version": 1691493750079,
-                "unicode_emoji": null,
-                "tags": {
-                    "bot_id": "429305856241172480"
-                },
-                "position": 9,
-                "permissions": "3533888",
-                "name": "esmBot",
-                "mentionable": false,
-                "managed": true,
-                "id": "918942071895781488",
-                "icon": null,
-                "hoist": false,
-                "flags": 0,
-                "color": 0
-            },
-            {
-                "version": 1691493750075,
-                "unicode_emoji": null,
-                "tags": {
-                    "bot_id": "534589798267224065"
-                },
-                "position": 8,
-                "permissions": "8798207470801",
-                "name": "ActivityRank",
-                "mentionable": false,
-                "managed": true,
-                "id": "923252024303300671",
-                "icon": null,
-                "hoist": false,
-                "flags": 0,
-                "color": 0
-            },
-            {
-                "version": 1691493750072,
-                "unicode_emoji": null,
-                "tags": {},
-                "position": 7,
-                "permissions": "1071698660929",
-                "name": "Elite",
-                "mentionable": false,
-                "managed": false,
-                "id": "923252513258479627",
-                "icon": null,
-                "hoist": false,
-                "flags": 0,
-                "color": 0
-            },
-            {
-                "version": 1691493750068,
-                "unicode_emoji": null,
-                "tags": {
-                    "bot_id": "506186003816513538"
-                },
-                "position": 6,
-                "permissions": "8797167152128",
-                "name": "Pepe Manager",
-                "mentionable": false,
-                "managed": true,
-                "id": "923255355981578252",
-                "icon": null,
-                "hoist": false,
-                "flags": 0,
-                "color": 0
-            },
-            {
-                "version": 1691493750065,
-                "unicode_emoji": null,
-                "tags": {},
-                "position": 5,
-                "permissions": "1071698660929",
-                "name": "Testing",
-                "mentionable": false,
-                "managed": false,
-                "id": "923258016785117204",
-                "icon": null,
-                "hoist": false,
-                "flags": 0,
-                "color": 0
-            },
-            {
-                "version": 1675695828813,
-                "unicode_emoji": null,
-                "tags": {
-                    "bot_id": "339254240012664832"
-                },
-                "position": 10,
-                "permissions": "517846068296",
-                "name": "AmariBot",
-                "mentionable": false,
-                "managed": true,
-                "id": "923265080592834621",
-                "icon": null,
-                "hoist": false,
-                "flags": 0,
-                "color": 0
-            },
-            {
-                "version": 1691493750061,
-                "unicode_emoji": null,
-                "tags": {
-                    "bot_id": "510789298321096704"
-                },
-                "position": 4,
-                "permissions": "268822598",
-                "name": "TeXit",
-                "mentionable": false,
-                "managed": true,
-                "id": "968519648725327925",
-                "icon": null,
-                "hoist": false,
-                "flags": 0,
-                "color": 0
-            },
-            {
-                "version": 1691493750057,
-                "unicode_emoji": null,
-                "tags": {
-                    "bot_id": "244234418007441408"
-                },
-                "position": 3,
-                "permissions": "8",
-                "name": "Orianna Bot",
-                "mentionable": false,
-                "managed": true,
-                "id": "1013469829526732866",
-                "icon": null,
-                "hoist": false,
-                "flags": 0,
-                "color": 0
-            },
-            {
-                "version": 1691493750054,
-                "unicode_emoji": null,
-                "tags": {
-                    "bot_id": "936929561302675456"
-                },
-                "position": 2,
-                "permissions": "2147601472",
-                "name": "Midjourney Bot",
-                "mentionable": false,
-                "managed": true,
-                "id": "1046151722113970178",
-                "icon": null,
-                "hoist": false,
-                "flags": 0,
-                "color": 0
-            },
-            {
-                "version": 1675695828824,
-                "unicode_emoji": null,
-                "tags": {},
-                "position": 11,
-                "permissions": "8",
-                "name": "King",
-                "mentionable": false,
-                "managed": false,
-                "id": "1072170634748104845",
-                "icon": null,
-                "hoist": true,
-                "flags": 0,
-                "color": 15844367
-            },
-            {
-                "version": 1682576726689,
-                "unicode_emoji": null,
-                "tags": {
-                    "bot_id": "276060004262477825"
-                },
-                "position": 1,
-                "permissions": "1644971945207",
-                "name": "Koya",
-                "mentionable": false,
-                "managed": true,
-                "id": "1101031335788814349",
-                "icon": null,
-                "hoist": false,
-                "flags": 0,
-                "color": 0
-            },
-            {
-                "version": 1704838210264,
-                "unicode_emoji": null,
-                "tags": {
-                    "bot_id": "1194397468834660443"
-                },
-                "position": 1,
-                "permissions": "8",
-                "name": "Mae",
-                "mentionable": false,
-                "managed": true,
-                "id": "1194402765615677462",
-                "icon": null,
-                "hoist": false,
-                "flags": 0,
-                "color": 0
+                "version": 1691482809211,
+                "type": 2,
+                "tags": "smiling_face_with_3_hearts",
+                "name": "Robin Headpat",
+                "id": "1046867755216949299",
+                "guild_id": "835933158339903488",
+                "format_type": 1,
+                "description": "",
+                "available": true,
+                "asset": ""
             }
         ],
-        "system_channel_flags": 0,
-        "name": "Sanity's Brain",
-        "latest_onboarding_question_id": null,
-        "verification_level": 0,
-        "discovery_splash": null,
-        "lazy": true,
-        "max_stage_video_channel_users": 50,
-        "threads": [],
-        "max_video_channel_users": 25,
+        "nsfw": false,
         "stage_instances": [],
+        "presences": [],
+        "owner_id": "384784538930249728",
+        "home_header": null,
+        "joined_at": "2024-01-09T22:10:10.276000+00:00",
+        "id": "835933158339903488",
+        "voice_states": [],
+        "incidents_data": null,
+        "name": "Sanity's Brain",
+        "rules_channel_id": null,
+        "members": [
+            {
+                "user": {
+                    "username": "testingthebot",
+                    "public_flags": 0,
+                    "id": "1194397468834660443",
+                    "global_name": null,
+                    "display_name": null,
+                    "discriminator": "7517",
+                    "bot": true,
+                    "avatar_decoration_data": null,
+                    "avatar": "3449b11905f51da3b554e6acb060221e"
+                },
+                "roles": [
+                    "1194402765615677462"
+                ],
+                "premium_since": null,
+                "pending": false,
+                "nick": "test",
+                "mute": false,
+                "joined_at": "2024-01-09T22:10:10.276000+00:00",
+                "flags": 0,
+                "deaf": false,
+                "communication_disabled_until": null,
+                "avatar": null
+            }
+        ],
+        "default_message_notifications": 0,
+        "max_video_channel_users": 25,
+        "hub_type": null,
+        "mfa_level": 0,
+        "embedded_activities": [],
+        "max_members": 500000,
+        "guild_scheduled_events": [],
+        "threads": [],
+        "latest_onboarding_question_id": null,
+        "inventory_settings": null,
+        "soundboard_sounds": [],
+        "premium_subscription_count": 0,
+        "description": null,
+        "afk_channel_id": null,
+        "preferred_locale": "en-US",
+        "public_updates_channel_id": null,
+        "lazy": true,
+        "banner": null,
+        "safety_alerts_channel_id": null,
+        "features": [
+            "CHANNEL_ICON_EMOJIS_GENERATED"
+        ],
+        "verification_level": 0,
+        "system_channel_id": null,
+        "large": false,
+        "nsfw_level": 0,
+        "system_channel_flags": 0,
+        "icon": "bf78387d3c95c6632d9e2ec7a6757c24",
+        "premium_progress_bar_enabled": false,
         "channels": [
             {
                 "version": 0,
@@ -617,7 +468,7 @@
                 "nsfw": false,
                 "name": "pictures-phone-to-pc",
                 "last_pin_timestamp": "2023-05-31T10:14:31+00:00",
-                "last_message_id": "1194771588994834483",
+                "last_message_id": "1196207868513374359",
                 "id": "923268042794881034",
                 "icon_emoji": {
                     "name": "\ud83d\udcf7",
@@ -857,7 +708,7 @@
                 "parent_id": "835933158339903491",
                 "nsfw": false,
                 "name": "gay-people-chat",
-                "last_message_id": "1157239435956604989",
+                "last_message_id": "1195710886053163048",
                 "id": "1138431803556888677",
                 "icon_emoji": {
                     "name": "\ud83c\udf08",
@@ -921,7 +772,7 @@
                 "parent_id": "835933158339903491",
                 "nsfw": false,
                 "name": "testing",
-                "last_message_id": "1195510960442585088",
+                "last_message_id": "1196830836683722863",
                 "id": "1195401403397582908",
                 "icon_emoji": {
                     "name": "\ud83e\uddea",
@@ -930,87 +781,236 @@
                 "flags": 0
             }
         ],
-        "inventory_settings": null,
-        "stickers": [
-            {
-                "version": 1664223870319,
-                "type": 2,
-                "tags": "smiley",
-                "name": "reichu",
-                "id": "1024053877156368414",
-                "guild_id": "835933158339903488",
-                "format_type": 1,
-                "description": "",
-                "available": true,
-                "asset": ""
-            },
-            {
-                "version": 1691482809211,
-                "type": 2,
-                "tags": "smiling_face_with_3_hearts",
-                "name": "Robin Headpat",
-                "id": "1046867755216949299",
-                "guild_id": "835933158339903488",
-                "format_type": 1,
-                "description": "",
-                "available": true,
-                "asset": ""
-            }
-        ],
-        "unavailable": false,
-        "description": null,
+        "application_command_counts": {
+            "3": 5,
+            "2": 7,
+            "1": 249
+        },
+        "max_stage_video_channel_users": 50,
         "application_id": null,
-        "banner": null,
-        "preferred_locale": "en-US",
-        "presences": [],
-        "splash": null,
-        "embedded_activities": [],
-        "hub_type": null,
-        "mfa_level": 0,
-        "premium_progress_bar_enabled": false,
-        "nsfw_level": 0,
-        "members": [
-            {
-                "user": {
-                    "username": "testingthebot",
-                    "public_flags": 0,
-                    "id": "1194397468834660443",
-                    "global_name": null,
-                    "display_name": null,
-                    "discriminator": "7517",
-                    "bot": true,
-                    "avatar_decoration_data": null,
-                    "avatar": "3449b11905f51da3b554e6acb060221e"
-                },
-                "roles": [
-                    "1194402765615677462"
-                ],
-                "premium_since": null,
-                "pending": false,
-                "nick": "test",
-                "mute": false,
-                "joined_at": "2024-01-09T22:10:10.276000+00:00",
-                "flags": 0,
-                "deaf": false,
-                "communication_disabled_until": null,
-                "avatar": null
-            }
-        ],
-        "premium_subscription_count": 0,
-        "default_message_notifications": 0,
-        "home_header": null,
-        "region": "deprecated",
-        "large": false,
-        "incidents_data": null,
-        "afk_timeout": 300,
-        "joined_at": "2024-01-09T22:10:10.276000+00:00",
-        "owner_id": "384784538930249728",
-        "vanity_url_code": null,
         "premium_tier": 0,
         "version": 1702629465948,
-        "features": [
-            "CHANNEL_ICON_EMOJIS_GENERATED"
+        "vanity_url_code": null,
+        "splash": null,
+        "region": "deprecated",
+        "member_count": 15,
+        "afk_timeout": 300,
+        "roles": [
+            {
+                "version": 1691493750267,
+                "unicode_emoji": null,
+                "tags": {},
+                "position": 0,
+                "permissions": "559623605571136",
+                "name": "@everyone",
+                "mentionable": false,
+                "managed": false,
+                "id": "835933158339903488",
+                "icon": null,
+                "hoist": false,
+                "flags": 0,
+                "color": 0
+            },
+            {
+                "version": 1691493750079,
+                "unicode_emoji": null,
+                "tags": {
+                    "bot_id": "429305856241172480"
+                },
+                "position": 9,
+                "permissions": "3533888",
+                "name": "esmBot",
+                "mentionable": false,
+                "managed": true,
+                "id": "918942071895781488",
+                "icon": null,
+                "hoist": false,
+                "flags": 0,
+                "color": 0
+            },
+            {
+                "version": 1691493750075,
+                "unicode_emoji": null,
+                "tags": {
+                    "bot_id": "534589798267224065"
+                },
+                "position": 8,
+                "permissions": "8798207470801",
+                "name": "ActivityRank",
+                "mentionable": false,
+                "managed": true,
+                "id": "923252024303300671",
+                "icon": null,
+                "hoist": false,
+                "flags": 0,
+                "color": 0
+            },
+            {
+                "version": 1691493750072,
+                "unicode_emoji": null,
+                "tags": {},
+                "position": 7,
+                "permissions": "1071698660929",
+                "name": "Elite",
+                "mentionable": false,
+                "managed": false,
+                "id": "923252513258479627",
+                "icon": null,
+                "hoist": false,
+                "flags": 0,
+                "color": 0
+            },
+            {
+                "version": 1691493750068,
+                "unicode_emoji": null,
+                "tags": {
+                    "bot_id": "506186003816513538"
+                },
+                "position": 6,
+                "permissions": "8797167152128",
+                "name": "Pepe Manager",
+                "mentionable": false,
+                "managed": true,
+                "id": "923255355981578252",
+                "icon": null,
+                "hoist": false,
+                "flags": 0,
+                "color": 0
+            },
+            {
+                "version": 1691493750065,
+                "unicode_emoji": null,
+                "tags": {},
+                "position": 5,
+                "permissions": "1071698660929",
+                "name": "Testing",
+                "mentionable": false,
+                "managed": false,
+                "id": "923258016785117204",
+                "icon": null,
+                "hoist": false,
+                "flags": 0,
+                "color": 0
+            },
+            {
+                "version": 1675695828813,
+                "unicode_emoji": null,
+                "tags": {
+                    "bot_id": "339254240012664832"
+                },
+                "position": 10,
+                "permissions": "517846068296",
+                "name": "AmariBot",
+                "mentionable": false,
+                "managed": true,
+                "id": "923265080592834621",
+                "icon": null,
+                "hoist": false,
+                "flags": 0,
+                "color": 0
+            },
+            {
+                "version": 1691493750061,
+                "unicode_emoji": null,
+                "tags": {
+                    "bot_id": "510789298321096704"
+                },
+                "position": 4,
+                "permissions": "268822598",
+                "name": "TeXit",
+                "mentionable": false,
+                "managed": true,
+                "id": "968519648725327925",
+                "icon": null,
+                "hoist": false,
+                "flags": 0,
+                "color": 0
+            },
+            {
+                "version": 1691493750057,
+                "unicode_emoji": null,
+                "tags": {
+                    "bot_id": "244234418007441408"
+                },
+                "position": 3,
+                "permissions": "8",
+                "name": "Orianna Bot",
+                "mentionable": false,
+                "managed": true,
+                "id": "1013469829526732866",
+                "icon": null,
+                "hoist": false,
+                "flags": 0,
+                "color": 0
+            },
+            {
+                "version": 1691493750054,
+                "unicode_emoji": null,
+                "tags": {
+                    "bot_id": "936929561302675456"
+                },
+                "position": 2,
+                "permissions": "2147601472",
+                "name": "Midjourney Bot",
+                "mentionable": false,
+                "managed": true,
+                "id": "1046151722113970178",
+                "icon": null,
+                "hoist": false,
+                "flags": 0,
+                "color": 0
+            },
+            {
+                "version": 1675695828824,
+                "unicode_emoji": null,
+                "tags": {},
+                "position": 11,
+                "permissions": "8",
+                "name": "King",
+                "mentionable": false,
+                "managed": false,
+                "id": "1072170634748104845",
+                "icon": null,
+                "hoist": true,
+                "flags": 0,
+                "color": 15844367
+            },
+            {
+                "version": 1682576726689,
+                "unicode_emoji": null,
+                "tags": {
+                    "bot_id": "276060004262477825"
+                },
+                "position": 1,
+                "permissions": "1644971945207",
+                "name": "Koya",
+                "mentionable": false,
+                "managed": true,
+                "id": "1101031335788814349",
+                "icon": null,
+                "hoist": false,
+                "flags": 0,
+                "color": 0
+            },
+            {
+                "version": 1704838210264,
+                "unicode_emoji": null,
+                "tags": {
+                    "bot_id": "1194397468834660443"
+                },
+                "position": 1,
+                "permissions": "8",
+                "name": "Mae",
+                "mentionable": false,
+                "managed": true,
+                "id": "1194402765615677462",
+                "icon": null,
+                "hoist": false,
+                "flags": 0,
+                "color": 0
+            }
         ],
-        "safety_alerts_channel_id": null
+        "explicit_content_filter": 0,
+        "unavailable": false
     }
 }
