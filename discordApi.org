@@ -1,0 +1,11 @@
+#+title: Discord Api
+
+
+* API
+Based around two core layers:
+- HTTPS/REST API for general operations, and persistent secure WebSocket based connection for sending and subscribing to real-time events.
+The most common use for the API will be providing a service, or access to a platform through the OAuth2 API
+Base API URL: https://discord.com/ai
+
+
+
